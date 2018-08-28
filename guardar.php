@@ -1,5 +1,5 @@
 <?php
-  $ced=$_POST["cedula"];
+  $ced=$_POST["Telefono"];
   $nombre=$_POST["nom"];
 
   $db=mysqli_connect("localhost","root","root");
